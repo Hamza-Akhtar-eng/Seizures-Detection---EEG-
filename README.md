@@ -1,4 +1,4 @@
-# 🧠 Epilepsy Detection Using EEG Signals
+# 🧠 Epilepsy Detection Using EEG Signals(On-Going)
 
 A **smart diagnostic web platform** built with **.NET** and **machine learning**, designed to detect epileptic seizures from EEG data. Developed as part of the Final Year Project (FYP) at COMSATS University Lahore, this research-centric system utilizes deep learning models to automate seizure detection, streamline reporting, and assist clinical decision-making—especially in resource-constrained environments.
 
